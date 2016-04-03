@@ -1,4 +1,4 @@
-# jastick
+# Mangrove
 Javascript Utilites Pack
 
 Pubstick  --> Utility to pub-sub type message delivery system on web workers.
@@ -8,5 +8,4 @@ Pub Sub is a well known pattern for communication among loosely related componen
  -> Passing back computation results to the paretn thread does not follow promise type patterns.
  -> Inability to send context to web workers in form module deependencies.
  -> General patterns like map-filter-aggregate have to be implemented from scratch everytime.
- 
- --WIP--
+
